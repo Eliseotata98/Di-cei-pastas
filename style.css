@@ -71,4 +71,25 @@ table, th, td, a{
 
 
 
+
+
+
+/* ////////////////////////////// CARLA ///////////////////////////////// */
+
+/* estilos de muestra de productos */
+table, th, td, h1, p{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+
+.centrar-producto{
+    width: 80%;
+}
+
+
+
+
+
+
         
