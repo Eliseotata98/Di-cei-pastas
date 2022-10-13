@@ -1,0 +1,74 @@
+/* Color de fondo y texto de la pagina web */
+body{
+    background-color: #FBAB7E;
+    background-image: linear-gradient(28deg, #FBAB7E 0%, #F7CE68 50%, #ffffff 100%);
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Estilos de parrafo de todas las paginas */
+p{
+    /* font-size: large; */
+    /* text-align: justify; */
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Menu de inicio */
+.menu-color{
+    margin-right: 50%;
+    padding: 98px;
+    font-family: 'open sans';
+
+}
+
+/* estilos de texto del menu de la pagina */
+table, th, td, a{
+    font-family: 'Poppins', sans-serif;
+    color: rgb(0, 0, 0);
+    text-decoration: none;  
+}
+
+/* Redes de la pagina web de Pastas Di Cei (el pie de pagina) */
+.imagenes-redes{
+    width: 50px;
+    margin-left: 20px;
+    
+}
+
+/* //////////////////////////////////////// TATA //////////////////////////////////////// */
+
+/* Centrado de la imagen principal de index.html (inicio) */
+.centrado{
+    width: 80%;
+    margin: 80px auto;
+    display: block;
+}
+
+/* Texto introductorio de presentacion de la pagina index.html */
+.presentacion-index{
+    font-size: 19px;
+    width: 700px;
+    height: 320px;
+    /* Uebiando un poco */
+    color: white;
+    background: rgba(238, 46, 12, 0.616);
+    text-align: center;
+    padding: 50px;
+    box-shadow: 12px 12px 10px rgba(133, 30, 12, 0.397);
+    margin: 80px auto;
+    /* box-sizing: content-box; */
+}
+
+/* las 3 imagenes muestra de la pagina del index.html */
+.imagenesmuestra{
+    width: 400px;
+    height: 400px;
+    margin-left: 30px;
+    box-shadow: 16px 16px 9px rgba(133, 30, 12, 0.397);
+
+}
+
+
+
+
+
+        
